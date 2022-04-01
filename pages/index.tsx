@@ -3,7 +3,7 @@ import Head from 'next/head'
 
 const Home: NextPage = () => {
   return (
-    <div className="">
+    <div>
       <Head>
         <title>NFT DROP</title>
         <link rel="icon" href="/favicon.ico" />
